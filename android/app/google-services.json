@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440547303494",
+    "project_id": "livchess-a71f4",
+    "storage_bucket": "livchess-a71f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440547303494:android:016d7a7d93356444112a47",
+        "android_client_info": {
+          "package_name": "com.example.livchess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpw4aATahx7CWfxcRumUL5Uvtiiax3q7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
